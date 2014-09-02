@@ -1,6 +1,7 @@
 Public Discussion About Data
 =======
 What's Interesting About San Rafael's New Parking Meters
+--------------------------------------------------------
 
 The San Rafael parking meters were recently equipped with new credit card readers and **sensors** that provide the ability to track when people park and how long they're staying. 
 
