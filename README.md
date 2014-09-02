@@ -20,7 +20,7 @@ The GitHub repository(the page you're currently view) will be used store informa
 
 The surveys results hosted on the project page will be posted with factual annotation.
 
-A GitHub repository is usally employed by developers, so they collaboratively write code together and share freely their solutions with the world. That being said, it's also a really incredible tool for other niche uses(like civic engagement), because you freely store documents, resources, etc... and everyone can make pull-requsts. 
+A GitHub repository is usally used by developers, so they can collaboratively write code together and freely share their solutions with the world. That being said, it's also a really incredible tool for other niche uses(like civic engagement), because you freely store documents, resources, etc... and everyone can make pull-requsts. 
 
 What's a pull-request? It means anyone can make a public contribution, which can be either accepted or denied by the repostiory owner.
 
