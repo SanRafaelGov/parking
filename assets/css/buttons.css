@@ -1,0 +1,75 @@
+a.btn-action {
+    color: #FFF;
+    font-size: 14px;
+    padding: .6em 2em;
+}
+
+a.btn-action:hover,
+a.btn-action:focus {
+    color: #FFF;
+}
+
+.btn-green {
+    background-color: #50883d;
+    border-radius: 3px;
+    box-shadow: 0 2px 0 0 #6da25b;
+    color: #fff;
+    display: inline-block;
+    font-family: "Lato",sans-serif;
+    font-size: 0.86667rem;
+    font-weight: 900;
+    letter-spacing: 0.1em;
+    line-height: 1.76923;
+    min-width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.btn-green:hover,
+.btn-green:focus {
+    background-color: #83b83b;
+}
+
+
+
+.btn-orange {
+    background-color: #d4a643;
+    border-radius: 3px;
+    box-shadow: 0 2px 0 0 #ab8c39, 0 1px 0 0 rgba(225, 225, 225, 0.5) inset;
+    color: #fff;
+    display: inline-block;
+    font-family: "Lato",sans-serif;
+    font-size: 0.86667rem;
+    font-weight: 900;
+    letter-spacing: 0.1em;
+    line-height: 1.76923;
+    min-width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.btn-orange:hover,
+.btn-orange:focus {
+    background-color: #c19729;
+}
+
+.btn-red {
+    background-color: #ae4332;
+    border-radius: 3px;
+    box-shadow: 0 2px 0 0 #be4a38;
+    color: #fff;
+    display: inline-block;
+    font-family: "Lato",sans-serif;
+    font-size: 0.86667rem;
+    font-weight: 900;
+    letter-spacing: 0.1em;
+    line-height: 1.76923;
+    min-width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.btn-red:hover,
+.btn-red:focus {
+    background-color: #a33e2e;
+}

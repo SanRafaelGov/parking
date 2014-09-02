@@ -1,0 +1,117 @@
+/* Thank's for taking the time to read my Notes -  Maybe I'm working with you or perhaps you're just a digital thief! JK :) I love sharing code stuff. */
+
+/*===================
+Begin Hero Section
+===================*/
+/* The Hero section uses Formstones jQuery Plugin Wallpaper, which includes a YouTube Video background and backup image for the lame browsers. 
+ * The blue_bg.png is applied as an overylay for the YouTube Video and Fallback image, but it should be noted that it's not the final background.
+*/
+
+#hero {
+  background: url(../img/bg/front_hero.jpg) no-repeat center top; 
+  background-attachment: relative;
+  background-position: center top;
+  color: #FFF;
+  padding: 175px 0;
+  width: 100%;
+
+
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; 
+}
+
+  #hero .title {
+  font-size: 55px;
+  font-weight: 100;
+  line-height: normal;
+  margin-bottom: 10px;
+}
+
+#hero .tagline {
+  font-size: 26px;
+  font-weight: 100;
+  line-height: 52px;
+  margin: 25px 0;
+}
+
+#hero .tagline .rotate{
+  font-weight: bold;
+  font-style: italic;
+}
+
+#hero .lead {
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 32px;
+  margin-top:0;
+}
+
+@media (min-width: 720px) {
+
+#hero {
+  padding: 250px 0 25px;
+}
+
+#hero .title {
+  font-size: 75px;
+}
+
+#hero .tagline {
+  font-size: 32px;
+}
+
+#hero .lead {
+  font-size: 22px;
+}
+
+}
+
+
+#feature {
+  padding: 40px 0;
+}
+
+#feature .title {
+  color: #46525f;
+  font-size: 38px;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 10px;
+}
+
+#feature .tagline {
+  font-size: 32px;
+  font-weight: 100;
+  line-height: 32px;
+  margin: 25px 0;
+}
+
+#feature .tagline .rotate{
+  font-weight: bold;
+}
+
+#feature .lead {
+  font-size: 22px;
+  font-weight: 100;
+  line-height: 32px;
+  margin-top:0;
+}
+
+.text-right {
+  text-align: right;
+}
+
+
+/*End Feature Section */
+
+
+#questions .introduction {
+  margin-bottom: 40px;
+}
