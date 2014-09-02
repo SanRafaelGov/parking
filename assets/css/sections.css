@@ -28,6 +28,7 @@ Begin Hero Section
 }
 
 #hero .title {
+  color: #ff9c44;
   font-size: 55px;
   font-weight: 100;
   line-height: normal;
