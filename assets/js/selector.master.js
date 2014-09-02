@@ -5,6 +5,11 @@ $("#hero .rotate").textrotator({
         speed: 2200
       });
 
+fluidvids.init({
+  selector: ['iframe', 'object'], // runs querySelectorAll()
+  players: ['www.youtube.com', 'player.vimeo.com'] // players to support
+});
+
 $(function() {
   $('a[href*=#]:not([href=#])').click(function() {
     if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
